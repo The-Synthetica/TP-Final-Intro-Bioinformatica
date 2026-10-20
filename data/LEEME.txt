@@ -1,0 +1,3 @@
+Carpeta opcional para archivos locales:
+- 2HHB.pdb, 1HHO.pdb, 3DUT.pdb (si faltan, la app los baja de RCSB y los guarda aca)
+- malaria_pfpr.csv (ya incluido: capa PfPR2-10 del Malaria Atlas Project, años 2000 y 2025)
